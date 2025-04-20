@@ -1,4 +1,4 @@
-public class phonepad {
+public class phonepad { //code for number showing in keypad to write a char
 
     public static void main(String[] args) {
     pad("", "12");
